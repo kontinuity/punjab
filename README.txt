@@ -23,6 +23,7 @@ For more information about punjab see the following URL :
 
 http://code.stanziq.com/punjab
 
+An attempt to make it work using unix sockets
 
 CONTRIBUTORS
 
